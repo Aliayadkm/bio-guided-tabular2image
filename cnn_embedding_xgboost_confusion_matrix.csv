@@ -1,0 +1,11 @@
+,Bacteroides_fragilis,Campylobacter_jejuni,Enterococcus_hirae,Escherichia_coli,Escherichia_fergusonii,Klebsiella_pneumoniae,Salmonella_enterica,Staphylococcus_aureus,Streptococcus_pneumoniae,Streptococcus_pyogenes
+Bacteroides_fragilis,3308,24,87,77,119,12,34,31,227,83
+Campylobacter_jejuni,5,3618,147,0,2,0,0,290,20,51
+Enterococcus_hirae,104,132,3126,8,7,0,4,151,176,293
+Escherichia_coli,62,0,0,2823,568,116,373,0,17,2
+Escherichia_fergusonii,138,0,17,619,3023,91,228,6,7,16
+Klebsiella_pneumoniae,7,0,0,105,61,3706,177,2,2,0
+Salmonella_enterica,64,0,1,348,210,281,2993,2,2,0
+Staphylococcus_aureus,5,274,126,3,1,0,0,3462,24,80
+Streptococcus_pneumoniae,265,18,243,23,22,2,0,91,2899,407
+Streptococcus_pyogenes,109,69,350,13,26,1,21,145,503,2858

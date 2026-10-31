@@ -1,0 +1,23 @@
+{
+  "train_rows": 200000,
+  "test_rows": 100000,
+  "n_features": 286,
+  "n_classes": 10,
+  "class_names": [
+    "Bacteroides_fragilis",
+    "Campylobacter_jejuni",
+    "Enterococcus_hirae",
+    "Escherichia_coli",
+    "Escherichia_fergusonii",
+    "Klebsiella_pneumoniae",
+    "Salmonella_enterica",
+    "Staphylococcus_aureus",
+    "Streptococcus_pneumoniae",
+    "Streptococcus_pyogenes"
+  ],
+  "duplicate_feature_rows": 76007,
+  "unique_feature_groups": 123993,
+  "groups_with_conflicting_labels": 0,
+  "seed": 42,
+  "split": "StratifiedGroupKFold first fold; groups are feature-row hashes"
+}

@@ -1,0 +1,75 @@
+{
+  "Bacteroides_fragilis": {
+    "precision": 0.9147525455837082,
+    "recall": 0.9590367428003972,
+    "f1-score": 0.9363713489274027,
+    "support": 4028.0
+  },
+  "Campylobacter_jejuni": {
+    "precision": 0.975578733146782,
+    "recall": 0.9556441564914029,
+    "f1-score": 0.9655085599194361,
+    "support": 4013.0
+  },
+  "Enterococcus_hirae": {
+    "precision": 0.9430229490899499,
+    "recall": 0.8962145901228378,
+    "f1-score": 0.9190231362467867,
+    "support": 3989.0
+  },
+  "Escherichia_coli": {
+    "precision": 0.8300114547537228,
+    "recall": 0.9077925331996993,
+    "f1-score": 0.8671613212063188,
+    "support": 3991.0
+  },
+  "Escherichia_fergusonii": {
+    "precision": 0.9209419680403701,
+    "recall": 0.8237211634904714,
+    "f1-score": 0.8696227663798809,
+    "support": 3988.0
+  },
+  "Klebsiella_pneumoniae": {
+    "precision": 0.9766454352441614,
+    "recall": 0.927185689090451,
+    "f1-score": 0.9512731032700013,
+    "support": 3969.0
+  },
+  "Salmonella_enterica": {
+    "precision": 0.8936885049196064,
+    "recall": 0.9296055916125812,
+    "f1-score": 0.9112932827603083,
+    "support": 4006.0
+  },
+  "Staphylococcus_aureus": {
+    "precision": 0.8920111472364143,
+    "recall": 0.9636226793778224,
+    "f1-score": 0.9264351181862036,
+    "support": 3986.0
+  },
+  "Streptococcus_pneumoniae": {
+    "precision": 0.9668013856812933,
+    "recall": 0.8341220423412204,
+    "f1-score": 0.8955742746356464,
+    "support": 4015.0
+  },
+  "Streptococcus_pyogenes": {
+    "precision": 0.8483476686283387,
+    "recall": 0.9334993773349938,
+    "f1-score": 0.8888888888888888,
+    "support": 4015.0
+  },
+  "accuracy": 0.913075,
+  "macro avg": {
+    "precision": 0.9161801792324347,
+    "recall": 0.9130444565861879,
+    "f1-score": 0.9131151800420874,
+    "support": 40000.0
+  },
+  "weighted avg": {
+    "precision": 0.9161608326811416,
+    "recall": 0.913075,
+    "f1-score": 0.9131200795109935,
+    "support": 40000.0
+  }
+}
